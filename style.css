@@ -54,6 +54,7 @@ img {
   border-radius: 1.2rem;
   max-width: 350px;
   text-align: center;
+  box-shadow: 0 5px 15px -10px var(--clr-grayish-blue);
 }
 
 .card h2 {
